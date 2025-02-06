@@ -1,10 +1,7 @@
 package com.csbd.creational.factory;
 
-import org.junit.Test;
-
-public class NotificationFactoryTest {
-    @Test
-    public void test(){
+public class FactoryMain {
+    public static void main(String[] args) {
         Notification emailNotification = NotificationFactory.createNotification("EMAIL");
         emailNotification.sendMessage("Hello! this is an Email.");
 
