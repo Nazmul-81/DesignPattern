@@ -1,4 +1,4 @@
-package com.csbd.behavioral.adaptive;
+package com.csbd.structural.adaptive;
 
 public class OldPrinter {
     public void print(String text){

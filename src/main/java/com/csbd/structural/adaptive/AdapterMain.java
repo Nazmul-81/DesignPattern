@@ -1,4 +1,4 @@
-package com.csbd.behavioral.adaptive;
+package com.csbd.structural.adaptive;
 
 public class AdapterMain {
     public static void main(String[] args) {

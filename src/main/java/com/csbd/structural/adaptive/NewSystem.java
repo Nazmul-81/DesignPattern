@@ -1,4 +1,4 @@
-package com.csbd.behavioral.adaptive;
+package com.csbd.structural.adaptive;
 
 
 import jdk.nashorn.internal.ir.debug.JSONWriter;
